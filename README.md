@@ -5,6 +5,7 @@ Certificate recipient has successfully completed a real Data Analysis project fo
 
 ## Languages and Utilities Used
 - SQL
+- Python
 - Tableau
 
 ## Skills Demonstrated
