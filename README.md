@@ -1,4 +1,4 @@
-# Intel-Project-Data-Analysis-for-Sustainability
+# Intel Project: Data Analysis for Sustainability
 
 ## Description
 Certificate recipient has successfully completed a real Data Analysis project for Intel’s Sustainability team. They gained experience using professional data analysis and visualization on topics relevant to Intel’s Sustainability goals. Working with real-world data, badge recipient investigated business problems related to sustainability and produced data-driven recommendations.
